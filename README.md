@@ -22,7 +22,7 @@ This version includes improvements to the website, Verity, navigation, language 
 
 ## 🌐 Website
 
-https://ryanrym.github.io/sprunki_central_community/
+
 
 ## 📦 Repository
 
