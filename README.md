@@ -1,46 +1,34 @@
-# 🌟 Sprunki Central Community
+# 🌟 Sprunki Central Community (SCC)
 
-**Sprunki Central Community (SCC)** is a community for Sprunki fans, creators, and channels.
-
-## 🎵 About SCC
+**Sprunki Central Community** is a community for Sprunki fans, creators, channels, and everyone interested in the Sprunki universe.
 
 SCC is a place to:
 
-- 🎨 Share creations
-- 📢 Introduce channels and creators
-- 📰 Share news and updates
-- 💻 Showcase projects
-- 🤝 Collaborate with other members
+- 🎨 Explore Fan Art and creative works
+- 🎵 Discover music and audio projects
+- 🎮 Share games and interactive projects
+- 🧩 Showcase OCs and creative projects
+- 🎬 Discover animations and videos
+- 📖 Share stories and ideas
+- 📰 Follow SCC news and updates
+- 📜 Read the community rules and membership information
 
-## 🚀 Current Version
+## 🚀 Version 1.0.0
 
-**v0.9.5**
+**SCC Version 1.0.0 is now released!**
 
-This version includes improvements to the website, Verity, navigation, language support, contact section, and overall user interface.
+This version includes updates and improvements to the website, including the Arts Gallery, News, Rules, Verity, and other sections of SCC.
 
-> ⚠️ Version 0.9.5 is a pre-final version. Some parts may still be improved before the release of v1.0.0.
-
-## 🌐 Website
+## 🌐 Official Website
 
 https://ryanrym.github.io/sprunki-central-community/
 
-## 📦 Repository
+## 📢 Official Channel
 
-This repository contains the source files for the official Sprunki Central Community website.
+https://web.bale.ai/chat?uid=6319645269
 
-## 🤖 Verity
+## 👑 SCC
 
-Verity is the AI assistant of SCC.
+**Owner:** Ryan_RYM
 
-Verity is currently under development and will receive more features in future versions.
-
-## 🎯 Next Goal
-
-**SCC v1.0.0**
-
-Version 1.0.0 will begin a new stage for Sprunki Central Community with more features and improvements.
-
----
-
-**Sprunki Central Community (SCC)**  
-Owner: **Ryan_RYM**
+© 2026 Sprunki Central Community
