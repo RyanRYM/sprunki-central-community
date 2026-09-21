@@ -13,9 +13,9 @@ SCC is a place to:
 - 📰 Follow SCC news and updates
 - 📜 Read the community rules and membership information
 
-## 🚀 Version 1.0.0
+## 🚀 Version 1.0.1
 
-**SCC Version 1.0.0 is now released!**
+**SCC Version 1.0.1 is now released!**
 
 This version includes updates and improvements to the website, including the Arts Gallery, News, Rules, Verity, and other sections of SCC.
 
